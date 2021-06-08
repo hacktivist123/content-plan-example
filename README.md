@@ -83,7 +83,7 @@ As a first step, we need to measure our reach. Part of this is to set up a few c
 ### Steps to take
 - Create a content calendar. (1 month ahead) ✅
 - Add annexes/appendices/follow up posts.
-- Drive traffic via Twitter (Prismic/personal).
+- Drive traffic via Twitter (Company/personal).
 - Post information to relevant social media platforms.
 - Measure traffic and engagement from these efforts.
 - Identify any newsletters or 3rd party content aggregators with a large audience and share links there
