@@ -1,6 +1,6 @@
 # content-plan-example
 
-This is an example of a content plan, the idea is for a devrel teams to see how to structure an effective content plan.
+This is an example of a content plan, the idea is for devrel teams to see how to structure an effective content plan.
 
 ***Note: This content plan can be tweaked or used as a temaplate however tems like.***
 
