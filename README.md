@@ -102,7 +102,7 @@ As a first step, we need to measure our reach. Part of this is to set up a few c
 |           | Hashnode      |                                        |
 
 
-## Success
+## Measurables
 
 Metrics can be slippery and inaccurate but if we dismiss them, we are selling ourselves short. Defining success for blog posts can be a hassle but it is important to understand that once you have your target audience engaging with your content, it has fulfilled its purpose and that content can be in a way said to be “successful”.
 
