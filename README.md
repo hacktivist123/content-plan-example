@@ -6,7 +6,8 @@ This is an example of a content plan, the idea is for a devrel teams to see how 
 
 
 
-## Title: Jamstack for Wordpress Developers 
+## Content Plan Title: Jamstack for Wordpress Developers 
+
 
 ## Description
 This is a 1-month content plan aimed at introducing wordpress developers that are curious about Jamstack and how they can get started with it.
