@@ -16,7 +16,7 @@ This is a 1-month content plan aimed at introducing wordpress developers that ar
 
 The purpose of a persona is to have an example of the kind of people the content we are producing in this sprint is for. 
 
-Note: This persona is fictional and is not an actual person
+***Note: This persona is fictional and is not a real person***
 
 ## Persona name 
 
@@ -25,7 +25,8 @@ Mike
 ## Persona description
  
 Mike is a wordpress developer with about 10 years of experience building web platforms with wordpress. He is an avid reader wpbeginner which is one of the most popular blogs for all things wordpress and loves to read up on wordpress tips and tricks. While scrolling through social media(Twitter) Mike came across the word JAMstack which he has been seeing a lot of web developers talk about. He is interested in it and would like to learn more about how it can be valuable to him as a wordpress developer.
-Goal
+
+### Goal
 The goal of this plan is to make a content plan for developers like Mike that are curious about Jamstack and want to know more about it. This content should be able to make the audience want to read more content from us. 
 
 The plan is to create a 1-month content schedule with new content weekly.
