@@ -109,7 +109,7 @@ Metrics can be slippery and inaccurate but if we dismiss them, we are selling ou
 For this content plan, success can be based on the following:
 
 - Blog views and Clicks
-- Page views increase for Prismic.io
+- Page views increase for the company's website.
 - Positive comments on the Blog posts
 - Retweets and Positive Quoted tweets(Twitter)
 - Positive Feedback from the community in general
