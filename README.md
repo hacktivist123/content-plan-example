@@ -14,7 +14,7 @@ This is a 1-month content plan aimed at introducing wordpress developers that ar
 
 ## Persona
 
-The purpose of a persona is to have an example of the kind of people the content we are producing in this sprint is for. 
+The purpose of a persona is to have a representation of the kind of people the content we are producing in this sprint is for. 
 
 ***Note: This persona is fictional and is not a real person***
 
