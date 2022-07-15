@@ -128,9 +128,10 @@ Links to deliverable: < link to the written blog post for the week goes here>
 
 | Participants |                       Liked  👍                       |                       Learned  📖                       | Discuss  🧵                                   |
 |:------------:|:----------------------------------------------------:|:------------------------------------------------------:|----------------------------------------------|
-| Shedrack     | what they liked from the content that was produced | what they learned during content production or after | finally what they think we should discuss. |
+|      | what they liked from the content that was produced | what they learned during content production or after | finally what they think we should discuss. |
 | Team lead    |                                                      |                                                        |                                              |
 | Stakeholders |                                                      |                                                        |                                              |
+| Shedrack |                                                      |                                                        |                                              |
 
 
 
